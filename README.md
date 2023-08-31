@@ -1,5 +1,5 @@
 # Eng.Software-II
-Lucas Potenza esteve aqui.
+Lucas Machado Potenza
 Leonardo também este aqui.
 Rauny também esteve aqui.
 Vynicius esteve aqui.
